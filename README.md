@@ -30,10 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/uAolXdS.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Ritaosi/Project-2-Resubmission/blob/main/ezgif.com-video-to-gif%20(3).gif' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Imgur   
+GIF created with ezgif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
